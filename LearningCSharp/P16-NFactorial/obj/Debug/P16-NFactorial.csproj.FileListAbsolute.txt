@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\P16-NFactorial\bin\Debug\P16-NFactorial.exe.config
+C:\CSharp\LearningCSharp\P16-NFactorial\bin\Debug\P16-NFactorial.exe
+C:\CSharp\LearningCSharp\P16-NFactorial\bin\Debug\P16-NFactorial.pdb
+C:\CSharp\LearningCSharp\P16-NFactorial\obj\Debug\P16-NFactorial.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\P16-NFactorial\obj\Debug\P16-NFactorial.exe
+C:\CSharp\LearningCSharp\P16-NFactorial\obj\Debug\P16-NFactorial.pdb

@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\6-Conditionals\bin\Debug\6-Conditionals.exe.config
+C:\CSharp\LearningCSharp\6-Conditionals\bin\Debug\6-Conditionals.exe
+C:\CSharp\LearningCSharp\6-Conditionals\bin\Debug\6-Conditionals.pdb
+C:\CSharp\LearningCSharp\6-Conditionals\obj\Debug\6-Conditionals.csprojAssemblyReference.cache
+C:\CSharp\LearningCSharp\6-Conditionals\obj\Debug\6-Conditionals.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\6-Conditionals\obj\Debug\6-Conditionals.exe
+C:\CSharp\LearningCSharp\6-Conditionals\obj\Debug\6-Conditionals.pdb

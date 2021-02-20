@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\CharactersAndText\bin\Debug\CharactersAndText.exe.config
+C:\CSharp\LearningCSharp\CharactersAndText\bin\Debug\CharactersAndText.exe
+C:\CSharp\LearningCSharp\CharactersAndText\bin\Debug\CharactersAndText.pdb
+C:\CSharp\LearningCSharp\CharactersAndText\obj\Debug\5-CharactersAndText.csprojAssemblyReference.cache
+C:\CSharp\LearningCSharp\CharactersAndText\obj\Debug\5-CharactersAndText.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\CharactersAndText\obj\Debug\CharactersAndText.exe
+C:\CSharp\LearningCSharp\CharactersAndText\obj\Debug\CharactersAndText.pdb

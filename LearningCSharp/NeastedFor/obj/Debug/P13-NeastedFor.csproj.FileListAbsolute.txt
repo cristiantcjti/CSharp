@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\NeastedFor\bin\Debug\NeastedFor.exe.config
+C:\CSharp\LearningCSharp\NeastedFor\bin\Debug\NeastedFor.exe
+C:\CSharp\LearningCSharp\NeastedFor\bin\Debug\NeastedFor.pdb
+C:\CSharp\LearningCSharp\NeastedFor\obj\Debug\P13-NeastedFor.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\NeastedFor\obj\Debug\NeastedFor.exe
+C:\CSharp\LearningCSharp\NeastedFor\obj\Debug\NeastedFor.pdb

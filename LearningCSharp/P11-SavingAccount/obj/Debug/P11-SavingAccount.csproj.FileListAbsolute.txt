@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\P11-SavingAccount\obj\Debug\P11-SavingAccount.csprojAssemblyReference.cache
+C:\CSharp\LearningCSharp\P11-SavingAccount\obj\Debug\P11-SavingAccount.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\P11-SavingAccount\bin\Debug\P11-SavingAccount.exe.config
+C:\CSharp\LearningCSharp\P11-SavingAccount\bin\Debug\P11-SavingAccount.exe
+C:\CSharp\LearningCSharp\P11-SavingAccount\bin\Debug\P11-SavingAccount.pdb
+C:\CSharp\LearningCSharp\P11-SavingAccount\obj\Debug\P11-SavingAccount.exe
+C:\CSharp\LearningCSharp\P11-SavingAccount\obj\Debug\P11-SavingAccount.pdb

@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\testEscope\obj\Debug\8-testEscope.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\testEscope\bin\Debug\testEscope.exe.config
+C:\CSharp\LearningCSharp\testEscope\bin\Debug\testEscope.exe
+C:\CSharp\LearningCSharp\testEscope\bin\Debug\testEscope.pdb
+C:\CSharp\LearningCSharp\testEscope\obj\Debug\testEscope.exe
+C:\CSharp\LearningCSharp\testEscope\obj\Debug\testEscope.pdb

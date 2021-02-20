@@ -1,0 +1,7 @@
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\bin\Debug\02-BiteBank.exe.config
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\bin\Debug\02-BiteBank.exe
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\bin\Debug\02-BiteBank.pdb
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\obj\Debug\02-BiteBank.csproj.CoreCompileInputs.cache
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\obj\Debug\02-BiteBank.exe
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\obj\Debug\02-BiteBank.pdb
+C:\CSharp\BiteBank\01-BiteBank\02-BiteBank\obj\Debug\02-BiteBank.csprojAssemblyReference.cache

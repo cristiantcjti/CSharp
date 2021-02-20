@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\Conditionals2\bin\Debug\Conditionals2.exe.config
+C:\CSharp\LearningCSharp\Conditionals2\bin\Debug\Conditionals2.exe
+C:\CSharp\LearningCSharp\Conditionals2\bin\Debug\Conditionals2.pdb
+C:\CSharp\LearningCSharp\Conditionals2\obj\Debug\7-Conditionals2.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\Conditionals2\obj\Debug\Conditionals2.exe
+C:\CSharp\LearningCSharp\Conditionals2\obj\Debug\Conditionals2.pdb
+C:\CSharp\LearningCSharp\Conditionals2\obj\Debug\7-Conditionals2.csprojAssemblyReference.cache

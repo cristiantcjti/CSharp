@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\2-CreatinVariables\bin\Debug\2-CreatinVariables.exe.config
+C:\CSharp\LearningCSharp\2-CreatinVariables\bin\Debug\2-CreatinVariables.exe
+C:\CSharp\LearningCSharp\2-CreatinVariables\bin\Debug\2-CreatinVariables.pdb
+C:\CSharp\LearningCSharp\2-CreatinVariables\obj\Debug\2-CreatingVariables.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\2-CreatinVariables\obj\Debug\2-CreatinVariables.exe
+C:\CSharp\LearningCSharp\2-CreatinVariables\obj\Debug\2-CreatinVariables.pdb

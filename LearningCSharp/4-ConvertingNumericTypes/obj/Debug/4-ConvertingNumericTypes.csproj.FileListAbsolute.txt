@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\bin\Debug\4-ConvertingNumericTypes.exe.config
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\bin\Debug\4-ConvertingNumericTypes.exe
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\bin\Debug\4-ConvertingNumericTypes.pdb
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\obj\Debug\4-ConvertingNumericTypes.csprojAssemblyReference.cache
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\obj\Debug\4-ConvertingNumericTypes.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\obj\Debug\4-ConvertingNumericTypes.exe
+C:\CSharp\LearningCSharp\4-ConvertingNumericTypes\obj\Debug\4-ConvertingNumericTypes.pdb

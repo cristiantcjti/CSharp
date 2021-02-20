@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\P12-SavingAccount2\bin\Debug\P12-SavingAccount2.exe.config
+C:\CSharp\LearningCSharp\P12-SavingAccount2\bin\Debug\P12-SavingAccount2.exe
+C:\CSharp\LearningCSharp\P12-SavingAccount2\bin\Debug\P12-SavingAccount2.pdb
+C:\CSharp\LearningCSharp\P12-SavingAccount2\obj\Debug\P12-SavingAccount2.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\P12-SavingAccount2\obj\Debug\P12-SavingAccount2.exe
+C:\CSharp\LearningCSharp\P12-SavingAccount2\obj\Debug\P12-SavingAccount2.pdb

@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\10-Switch\bin\Debug\10-Switch.exe.config
+C:\CSharp\LearningCSharp\10-Switch\bin\Debug\10-Switch.exe
+C:\CSharp\LearningCSharp\10-Switch\bin\Debug\10-Switch.pdb
+C:\CSharp\LearningCSharp\10-Switch\obj\Debug\10-Switch.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\10-Switch\obj\Debug\10-Switch.exe
+C:\CSharp\LearningCSharp\10-Switch\obj\Debug\10-Switch.pdb

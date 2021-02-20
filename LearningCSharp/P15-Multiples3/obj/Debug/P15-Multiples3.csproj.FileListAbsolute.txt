@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\P15-Multiples3\bin\Debug\P15-Multiples3.exe.config
+C:\CSharp\LearningCSharp\P15-Multiples3\bin\Debug\P15-Multiples3.exe
+C:\CSharp\LearningCSharp\P15-Multiples3\bin\Debug\P15-Multiples3.pdb
+C:\CSharp\LearningCSharp\P15-Multiples3\obj\Debug\P15-Multiples3.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\P15-Multiples3\obj\Debug\P15-Multiples3.exe
+C:\CSharp\LearningCSharp\P15-Multiples3\obj\Debug\P15-Multiples3.pdb

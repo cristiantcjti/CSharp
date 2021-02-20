@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\bin\Debug\3-CreatingVariablesTypeFloat.exe.config
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\bin\Debug\3-CreatingVariablesTypeFloat.exe
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\bin\Debug\3-CreatingVariablesTypeFloat.pdb
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\obj\Debug\3-CreatingVariablesTypeFloat.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\obj\Debug\3-CreatingVariablesTypeFloat.exe
+C:\CSharp\LearningCSharp\3-CreatingVariablesTypeFloat\obj\Debug\3-CreatingVariablesTypeFloat.pdb

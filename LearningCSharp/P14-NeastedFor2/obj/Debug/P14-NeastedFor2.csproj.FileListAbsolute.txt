@@ -1,0 +1,6 @@
+C:\CSharp\LearningCSharp\P14-NeastedFor2\obj\Debug\P14-NeastedFor2.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\P14-NeastedFor2\bin\Debug\P14-NeastedFor2.exe.config
+C:\CSharp\LearningCSharp\P14-NeastedFor2\bin\Debug\P14-NeastedFor2.exe
+C:\CSharp\LearningCSharp\P14-NeastedFor2\bin\Debug\P14-NeastedFor2.pdb
+C:\CSharp\LearningCSharp\P14-NeastedFor2\obj\Debug\P14-NeastedFor2.exe
+C:\CSharp\LearningCSharp\P14-NeastedFor2\obj\Debug\P14-NeastedFor2.pdb

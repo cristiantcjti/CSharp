@@ -1,0 +1,7 @@
+C:\CSharp\LearningCSharp\9-IR\bin\Debug\9-IR.exe.config
+C:\CSharp\LearningCSharp\9-IR\bin\Debug\9-IR.exe
+C:\CSharp\LearningCSharp\9-IR\bin\Debug\9-IR.pdb
+C:\CSharp\LearningCSharp\9-IR\obj\Debug\9-IR.csprojAssemblyReference.cache
+C:\CSharp\LearningCSharp\9-IR\obj\Debug\9-IR.csproj.CoreCompileInputs.cache
+C:\CSharp\LearningCSharp\9-IR\obj\Debug\9-IR.exe
+C:\CSharp\LearningCSharp\9-IR\obj\Debug\9-IR.pdb
