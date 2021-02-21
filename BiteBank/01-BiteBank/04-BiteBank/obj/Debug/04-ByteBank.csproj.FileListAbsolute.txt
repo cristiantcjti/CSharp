@@ -1,0 +1,4 @@
+C:\CSharp\BiteBank\01-BiteBank\04-BiteBank\obj\Debug\04-ByteBank.csprojAssemblyReference.cache
+C:\CSharp\BiteBank\01-BiteBank\04-BiteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\CSharp\BiteBank\01-BiteBank\04-BiteBank\obj\Debug\04-BiteBank.exe
+C:\CSharp\BiteBank\01-BiteBank\04-BiteBank\obj\Debug\04-BiteBank.pdb

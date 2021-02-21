@@ -1,6 +1,9 @@
-﻿public class CurrentAccount
+﻿using _05_ByteBank;
+
+
+public class CurrentAccount
 {
-    public string holder;
+    public holder;
     public int agency;
     public int number;
     public double balance = 100;
