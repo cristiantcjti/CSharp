@@ -43,14 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employees\AccountManager.cs" />
+    <Compile Include="Employees\Authenticable.cs" />
+    <Compile Include="Employees\AuthenticatableEmployee.cs" />
+    <Compile Include="Employees\Auxiliar.cs" />
+    <Compile Include="Employees\Designer.cs" />
+    <Compile Include="Employees\Developer.cs" />
     <Compile Include="ManagerBonus.cs" />
     <Compile Include="Employees\Director.cs" />
     <Compile Include="Employees\Employees.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Systems\IAuthenticatable.cs" />
+    <Compile Include="Systems\InternalSystem.cs" />
+    <Compile Include="TradePartner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

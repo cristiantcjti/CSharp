@@ -1,5 +1,4 @@
-﻿using ByteBank.Systems;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Employees
 {
-    public class Director : AuthenticatableEmployee
+    public class Auxiliar : Employee
     {
-        public Director(string cpf) : base(5000,cpf)
+        public Auxiliar(string cpf) : base(2000, cpf)
         {
-            Console.WriteLine("Creating Director!");
+            Console.WriteLine("Creating Auxiliar!");
         }
         public override void IncriseSalary()
         {
-            Salary *= 0.15;
+            Salary *= 0.1;
         }
         public override double GetBonus()
         {
-            return Salary * 0.50;
+            return Salary * 0.2;
         }
     }
 }

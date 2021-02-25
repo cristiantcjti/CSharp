@@ -5,3 +5,10 @@ C:\CSharp\BiteBank\BiteBank\BiteBank\obj\Debug\ByteBank.csprojAssemblyReference.
 C:\CSharp\BiteBank\BiteBank\BiteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
 C:\CSharp\BiteBank\BiteBank\BiteBank\obj\Debug\BiteBank.exe
 C:\CSharp\BiteBank\BiteBank\BiteBank\obj\Debug\BiteBank.pdb
+C:\CSharp\ByteBank\BiteBank\BiteBank\bin\Debug\BiteBank.exe.config
+C:\CSharp\ByteBank\BiteBank\BiteBank\bin\Debug\BiteBank.exe
+C:\CSharp\ByteBank\BiteBank\BiteBank\bin\Debug\BiteBank.pdb
+C:\CSharp\ByteBank\BiteBank\BiteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\CSharp\ByteBank\BiteBank\BiteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\CSharp\ByteBank\BiteBank\BiteBank\obj\Debug\BiteBank.exe
+C:\CSharp\ByteBank\BiteBank\BiteBank\obj\Debug\BiteBank.pdb

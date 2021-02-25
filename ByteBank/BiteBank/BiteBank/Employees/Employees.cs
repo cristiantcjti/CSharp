@@ -6,15 +6,26 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Employees
 {
-    public class Employee
+    public abstract class Employee
     {
-        public string Name { get; set; }
-        public string CPF { get; set; }
-        public double Salary { get; set; }
 
-        public double GetBonus()
+        public static int TotalEmployees { get; private set; }
+        public string Name { get; set; }
+        public string CPF { get; private set; }
+        public double Salary { get; protected set; }
+
+        public Employee(double salary,string cpf)
         {
-            return Salary * 0.10;
+            CPF = cpf;
+            Salary = salary;
+            TotalEmployees++;
         }
+
+
+        public abstract void IncriseSalary();
+
+
+        public abstract double GetBonus();
+
     }
 }

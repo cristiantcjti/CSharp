@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ByteBank.Employees;
+using ByteBank.Systems;
 
 namespace ByteBank
 {
@@ -11,37 +12,66 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-            ManagerBonus managerBonus = new ManagerBonus();
 
-            Employee cris = new Employee();
-            cris.Name = "Cristian Silva";
-            cris.CPF = "123.456.789-01";
-            cris.Salary = 2000;
+            //MathBonus();
 
-            managerBonus.Register(cris);
+            intenalSystem();
 
-            
-            Director paul = new Director();
-            paul.Name = "Paul Wilians";
-            paul.CPF = "987.654.321-10";
-            paul.Salary = 5000;
-
-            managerBonus.Register(paul);
-
-            Console.WriteLine(cris.Name);
-            Console.WriteLine(cris.CPF);
-            Console.WriteLine(cris.Salary);
-            Console.WriteLine("This is " + cris.Name + " bonus: " + cris.GetBonus());
-            Console.WriteLine();
-            Console.WriteLine(paul.Name);
-            Console.WriteLine(paul.CPF);
-            Console.WriteLine(paul.Salary);
-            Console.WriteLine("This is " + paul.Name + " bonus: " + paul.GetBonus());
-            Console.WriteLine();
-            Console.WriteLine("This is the total bonus: "+ managerBonus.TotalBonus());
 
             Console.ReadLine();
+        }
+        public static void MathBonus()
+        {
+            ManagerBonus managerBonus = new ManagerBonus();
+
+            Auxiliar igor = new Auxiliar("357.753.357-01");
+            igor.Name = "Igor";
+            
+            Designer peter = new Designer("159.951.159-01");
+            peter.Name = "Peter";
+
+            Developer cris = new Developer("794.613.987-01");
+            cris.Name = "Cris";
+
+            AccountManager camily = new AccountManager("852.258.852-01");
+            camily.Name = "Camily";
+
+            Director charles = new Director("123.321.123-01");
+            charles.Name = "Cris";
+
+            managerBonus.Register(igor);
+            managerBonus.Register(peter);
+            managerBonus.Register(cris);
+            managerBonus.Register(camily);
+            managerBonus.Register(charles);
+
+            Console.WriteLine("Total bonus' month: " + managerBonus.TotalBonus());
+
+            Console.ReadLine();
+        }
+        public static void intenalSystem()
+        {
+            InternalSystem internalSystem = new InternalSystem();
+
+
+            AccountManager camily = new AccountManager("852.258.852-01");
+            camily.Name = "Camily";
+            camily.Password = "123";
+
+            Director charles = new Director("123.321.123-01");
+            charles.Name = "Charles";
+            charles.Password = "456";
+
+            TradePartner tradePartner = new TradePartner();
+            tradePartner.Password = "123456";
+
+
+            internalSystem.Login(camily, "123");
+            internalSystem.Login(charles, "456");
+            internalSystem.Login(tradePartner, "123456");
+
 
         }
+
     }
 }

@@ -7,19 +7,22 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Employees
 {
-    public class Director : AuthenticatableEmployee
+    public class AccountManager : AuthenticatableEmployee
+
     {
-        public Director(string cpf) : base(5000,cpf)
+        public AccountManager(string cpf) : base(4000,cpf)
         {
-            Console.WriteLine("Creating Director!");
+            Console.WriteLine("Creating Accountant Manager!");
         }
         public override void IncriseSalary()
         {
-            Salary *= 0.15;
+            Salary *= 0.05;
         }
+
         public override double GetBonus()
         {
-            return Salary * 0.50;
+            return Salary * 0.25; 
         }
+
     }
 }
