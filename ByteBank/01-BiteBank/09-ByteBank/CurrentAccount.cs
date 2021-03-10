@@ -4,20 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _08_ByteBank
+namespace _09_ByteBank
 {
     public class CurrentAccount
     {
         //private Client _holder; Don't need to declare because it is a encapsulated variable now.
 
+        private static int OperationTax;
+
         public  Client Holder {get;set;} // when we do not have any logic
 
         public static int TotalCreatedAccounts { get; private set; }
 
+        // NUMBER'S CODE
         public int Number { get; } // it creates a private readonly field that only allows to set a value to Number inside a Constructor.  
 
+        // AGENCY'S CODE
         public int Agency { get; } // it creates a private readonly field that only allows to set a value to Number inside a Constructor. 
 
+        // BALANCE
         private double _balance = 100; // _variable name, because it is a encapsulated variable.
         public double Balance // first letter UPPER CASE
         {
@@ -35,52 +40,56 @@ namespace _08_ByteBank
             }
         }
 
-        //Constructor
+        //CONSTRUCTOR
         public CurrentAccount(int agency, int number)
         {
             if( agency <= 0 )
             {
-                ArgumentException exception = new ArgumentException("The Agency's code can not be 0!");
-                throw exception;
+                
+                throw new ArgumentException("The Agency's code can not be 0!",nameof(agency));
             }
             if ( number <= 0)
             {
-                ArgumentException exception = new ArgumentException("The Number's code can not be 0!");
-                throw exception;
+                
+                throw new ArgumentException("The Number's code can not be 0!",nameof(number));
             }
 
             Agency = agency;
             Number = number;
             TotalCreatedAccounts++;
+            OperationTax = 30 / TotalCreatedAccounts;
         }
 
-        public bool Withdraw(double value)
+        // WITHDRAW MONEY
+        public void Withdraw(double value)
         {
+            if (value < 0)
+            {
+                throw new ArgumentException("Invalid value to be withdraw.", nameof(value));
+            }
+
             if (this._balance < value)
             {
-                return false;
+                throw new InsufficientBalanceException( Balance, value);
             }
-            else
-            {
-                this._balance -= value;
-                return true;
-            }
+            _balance -= value;
         }
-
+        
+        // DEPOSIT MONEY 
         public void Deposit(double value)
         {
             this._balance += value;
         }
 
-        public bool Transfer(double value, CurrentAccount targetAccount)
+        // TRANSFER MONEY
+        public void Transfer(double value, CurrentAccount targetAccount)
         {
-            if (this._balance < value)
+            if (value < 0)
             {
-                return false;
+                throw new ArgumentException("Invalid value to be transfered.", nameof(value));
             }
-            this._balance -= value;
+            Withdraw(value);
             targetAccount.Deposit(value);
-            return true;
         }
     }
 }
